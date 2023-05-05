@@ -1,0 +1,420 @@
+OFFENSE_CODE,OFFENSE_DESCRIPTION,DISTRICT,Type_of_Arrest,age_code,sex_label,race_label,ethnicity_label,latitude,longitude,street_name
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,Taken into Custody,19,Male,Black or African American,Unknown,42.3563753055,-71.0621351296,Park Street
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,C11,On-View,41,Male,White,Unknown,42.316331142,-71.0603500243,Morrill Street
+613,LARCENY SHOPLIFTING,D4,On-View,52,Male,Black or African American,Unknown,42.3350020095,-71.0750599797,Unknown
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,E5,On-View,28,Male,White,Unknown,42.2728249994,-71.143688983,Unknown
+613,LARCENY SHOPLIFTING,C11,Taken into Custody,43,Male,White,Unknown,42.3551233904,-71.0608797985,Washington Street
+735,RECOVERED - MV RECOVERED IN BOSTON (STOLEN OUTSIDE BOSTON),B2,On-View,51,Male,Black or African American,Unknown,42.3284700227,-71.0701000481,Allerton Street
+801,ASSAULT - SIMPLE,A1,On-View,33,Female,White,Unknown,42.3552162483,-71.0601286347,Summer Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,42,Male,White,Hispanic or Latino,42.3796659754,-71.0302249975,Princeton Street
+301,ROBBERY,A1,On-View,29,Female,White,Unknown,42.3561800185,-71.0694400496,Beacon Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,31,Male,White,Unknown,42.3241110053,-71.075829001,Blue Hill Avenue
+801,ASSAULT - SIMPLE,A1,On-View,26,Male,Black or African American,Unknown,42.3531430071,-71.0614429869,Chauncy Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,17,Female,Black or African American,Not Hispanic or Latino,42.3334960162,-71.0733879548,Unknown
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,C11,On-View,34,Female,White,Unknown,42.3132792169,-71.0529209302,Sydney Street
+801,ASSAULT - SIMPLE,B2,On-View,34,Male,Black or African American,Unknown,42.3286652343,-71.0703755299,Rusfield Street
+613,LARCENY SHOPLIFTING,D4,On-View,58,Male,White,Unknown,42.3340182896,-71.0763812393,Harrison Avenue
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,28,Male,Black or African American,Unknown,42.3158150162,-71.0873470453,Humboldt Avenue
+423,ASSAULT - AGGRAVATED,D4,On-View,16,Male,White,Unknown,42.3434909567,-71.0643519978,Harrison Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,20,Male,Black or African American,Unknown,42.3168545552,-71.0745761691,Howard Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,External,On-View,22,Male,White,Unknown,42.3182299788,-71.0909499999,Walnut Avenue
+801,ASSAULT - SIMPLE,A1,On-View,25,Male,Asian,Not Hispanic or Latino,42.3562499677,-71.0621900505,Winter Street
+301,ROBBERY,B3,On-View,21,Male,Black or African American,Unknown,42.2967335121,-71.0761864809,Thane Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,60,Male,Black or African American,Unknown,42.3325240078,-71.0721390208,Massachusetts Avenue
+801,ASSAULT - SIMPLE,C6,On-View,31,Male,White,Unknown,42.337875997,-71.0465160071,F Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,34,Male,White,Unknown,42.3349299592,-71.0763699948,Gage Street
+423,ASSAULT - AGGRAVATED,B3,On-View,19,Female,White,Unknown,42.2562159204,-71.1240194733,Hyde Park Avenue
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,E5,On-View,25,Male,Black or African American,Unknown,42.3162397482,-71.0669514983,Arion Street
+801,ASSAULT - SIMPLE,A1,Taken into Custody,31,Female,White,Unknown,42.3576864506,-71.0607513405,Tremont Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,E5,On-View,21,Male,White,Unknown,42.2917220943,-71.1196546024,Archdale Road
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,42,Male,Black or African American,Hispanic or Latino,42.3325240078,-71.0721390208,Massachusetts Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,Taken into Custody,43,Female,White,Unknown,42.3144770244,-71.0913870457,Harold Street
+619,LARCENY ALL OTHERS,A1,On-View,35,Male,Black or African American,Unknown,42.3562499677,-71.0621900505,Winter Street
+1102,FRAUD - FALSE PRETENSE / SCHEME,A1,On-View,43,Male,White,Unknown,42.3563332366,-71.0544028234,High Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,55,Male,Black or African American,Unknown,42.3313060041,-71.071947051,Gerard Street
+801,ASSAULT - SIMPLE,A1,On-View,14,Male,Black or African American,Unknown,42.3618385666,-71.0597648909,Sudbury Street
+1001,FORGERY / COUNTERFEITING,A1,On-View,33,Male,Black or African American,Hispanic or Latino,42.3631759581,-71.0569390348,Cross Street
+3831,M/V - LEAVING SCENE - PROPERTY DAMAGE,B3,Taken into Custody,61,Male,White,Unknown,42.2690985096,-71.0936145779,Blue Hill Avenue
+423,ASSAULT - AGGRAVATED,C11,On-View,43,Male,White,Unknown,42.2972129696,-71.0610449996,Unknown
+2647,THREATS TO DO BODILY HARM,D4,On-View,38,Male,White,Not Hispanic or Latino,42.3500960105,-71.0773209843,Boylston Street
+801,ASSAULT - SIMPLE,A1,On-View,28,Male,Black or African American,Unknown,42.350661739,-71.066022317,Warrenton Street
+301,ROBBERY,B2,On-View,47,Female,Black or African American,Unknown,42.3142679755,-71.0915390534,Harold Street
+301,ROBBERY,D4,On-View,25,Female,Black or African American,Unknown,42.3354499745,-71.0744700317,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,Taken into Custody,30,Male,Black or African American,Unknown,42.3339512484,-71.0753893882,Northampton Street
+423,ASSAULT - AGGRAVATED,C6,On-View,14,Female,Black or African American,Unknown,42.3323189552,-71.0712059846,Massachusetts Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,Taken into Custody,16,Male,Black or African American,Unknown,42.3432199922,-71.0945600327,Park Drive
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,31,Male,White,Unknown,42.3371530334,-71.0740250068,East Concord Street
+423,ASSAULT - AGGRAVATED,A1,Taken into Custody,33,Male,White,Unknown,42.3543399836,-71.061713014,Washington Street
+1402,VANDALISM,A1,On-View,55,Male,Black or African American,Unknown,42.3665429892,-71.0574281213,Prince Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,19,Male,Black or African American,Hispanic or Latino,42.3369799999,-71.0763159841,Washington Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,24,Female,White,Unknown,42.3349099561,-71.0751700489,Unknown
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,D4,On-View,39,Male,Black or African American,Unknown,42.3334999802,-71.0735099962,Unknown
+2403,DISTURBING THE PEACE/ DISORDERLY CONDUCT/ GATHERING CAUSING ANNOYANCE/ NOISY PAR,B2,On-View,27,Male,White,Unknown,42.366463255,-71.0606780096,Beverly Street
+801,ASSAULT - SIMPLE,D4,On-View,41,Male,White,Unknown,42.3390220035,-71.0762799836,West Concord Street
+1602,PROSTITUTION - SOLICITING,B2,On-View,59,Male,Black or African American,Unknown,42.3190409592,-71.0777539915,Blue Hill Avenue
+1602,PROSTITUTION - SOLICITING,B2,On-View,31,Male,Black or African American,Unknown,42.3190409592,-71.0777539915,Blue Hill Avenue
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,20,Male,White,Unknown,42.316374008,-71.0829069563,Warren Street
+801,ASSAULT - SIMPLE,A1,Taken into Custody,34,Male,White,Unknown,42.3612799656,-71.0637499829,Cambridge Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E18,On-View,40,Female,Black or African American,Unknown,42.2874765096,-71.1069549566,Unknown
+801,ASSAULT - SIMPLE,D4,On-View,16,Male,Black or African American,Unknown,42.3419829597,-71.0630219986,Harrison Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,40,Male,Black or African American,Not Hispanic or Latino,42.3564775345,-71.0614247238,Hamilton Place
+423,ASSAULT - AGGRAVATED,B2,On-View,22,Male,White,Unknown,42.2860879596,-71.0909340109,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,On-View,28,Male,Black or African American,Unknown,42.3135860317,-71.0979820285,School Street
+423,ASSAULT - AGGRAVATED,D4,On-View,28,Male,Black or African American,Unknown,42.3334960162,-71.0733879548,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,39,Male,Black or African American,Not Hispanic or Latino,42.3554073752,-71.0631243255,Tremont Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,20,Male,Black or African American,Unknown,42.2749940067,-71.0721890172,Old Morton Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,24,Male,Black or African American,Unknown,42.3484269903,-71.0641139899,Washington Street
+301,ROBBERY,C11,On-View,19,Male,White,Unknown,42.2850299833,-71.0551730412,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,19,Male,Black or African American,Unknown,42.3565019558,-71.0620000397,Tremont Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,27,Male,White,Unknown,42.3325240078,-71.0721390208,Massachusetts Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,20,Male,Black or African American,Unknown,42.3567099717,-71.06021995,Bromfield Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,23,Male,Black or African American,Unknown,42.360746308,-71.0636601461,Temple Street
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,C11,On-View,51,Male,White,Unknown,42.3064514827,-71.0773038234,Columbia Road
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,Taken into Custody,18,Male,White,Unknown,42.3349099561,-71.0751700489,Unknown
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,43,Male,Black or African American,Hispanic or Latino,42.3106659583,-71.0777599968,Intervale Street
+801,ASSAULT - SIMPLE,A1,On-View,26,Male,White,Unknown,42.3301564636,-71.062986039,Unknown
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B3,On-View,25,Male,Black or African American,Unknown,42.2823189945,-71.0996140514,Walk Hill Street
+301,ROBBERY,A7,On-View,26,Male,Black or African American,Unknown,42.3701430246,-71.0389110283,Maverick Square
+801,ASSAULT - SIMPLE,A1,Taken into Custody,37,Male,Black or African American,Not Hispanic or Latino,42.3612432687,-71.0649732703,Cambridge Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,19,Male,Black or African American,Unknown,42.3556359538,-71.0628960126,Tremont Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,27,Male,Black or African American,Unknown,42.2984969937,-71.083763991,Bradshaw Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,19,Female,White,Unknown,42.3428501426,-71.0651623467,Harrison Avenue
+613,LARCENY SHOPLIFTING,C11,On-View,45,Male,Black or African American,Unknown,42.3551233904,-71.0608797985,Washington Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,22,Male,Black or African American,Hispanic or Latino,42.3853219789,-71.0129989901,Saratoga Street
+801,ASSAULT - SIMPLE,A1,On-View,24,Female,Unknown,Unknown,42.3603690077,-71.0567219808,North Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,25,Male,Black or African American,Unknown,42.3331550047,-71.0332840153,East 6th Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,21,Male,Black or African American,Unknown,42.3618385666,-71.0597648909,Sudbury Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,20,Male,Black or African American,Hispanic or Latino,42.28886535,-71.0773843926,Ferndale Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,40,Male,White,Unknown,42.2686710098,-71.093819042,Blue Hill Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,53,Female,White,Unknown,42.3562499677,-71.0621900505,Winter Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,On-View,42,Male,White,Unknown,42.3094350201,-71.1045700151,Washington Street
+801,ASSAULT - SIMPLE,A1,On-View,34,Female,White,Unknown,42.3643430262,-71.059876008,Canal Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,26,Male,Black or African American,Unknown,42.3565019558,-71.0620000397,Tremont Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,Taken into Custody,35,Male,White,Unknown,42.3150129255,-71.0975669015,Massachusetts 28
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,C11,On-View,32,Male,Black or African American,Unknown,42.3015979723,-71.0676679657,Topliff Street
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,C11,On-View,24,Male,White,Unknown,42.2996730406,-71.065116015,Geneva Avenue
+1102,FRAUD - FALSE PRETENSE / SCHEME,D4,On-View,13,Male,Black or African American,Unknown,42.3494204977,-71.0831579974,Newbury Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,28,Male,Black or African American,Not Hispanic or Latino,42.3516670388,-71.0642770069,Tremont Street
+801,ASSAULT - SIMPLE,A1,On-View,47,Female,Black or African American,Unknown,42.356264012,-71.0622609629,Tremont Street
+423,ASSAULT - AGGRAVATED,A1,On-View,32,Male,Black or African American,Unknown,42.3134960214,-71.0795209803,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,Taken into Custody,46,Male,Black or African American,Unknown,42.3325240078,-71.0721390208,Massachusetts Avenue
+801,ASSAULT - SIMPLE,A1,On-View,30,Female,White,Unknown,42.3370020042,-71.0971400053,Vancouver Street
+423,ASSAULT - AGGRAVATED,A1,On-View,36,Male,Black or African American,Unknown,42.3329339989,-71.0924049434,Unknown
+801,ASSAULT - SIMPLE,D4,On-View,40,Male,White,Unknown,42.3495000111,-71.0794800242,Boylston Street
+801,ASSAULT - SIMPLE,A1,On-View,31,Male,Black or African American,Unknown,42.3563753055,-71.0621351296,Park Street
+801,ASSAULT - SIMPLE,A1,On-View,23,Male,White,Unknown,42.3509100304,-71.0585299644,Unknown
+801,ASSAULT - SIMPLE,A1,Taken into Custody,51,Male,Black or African American,Unknown,42.3504329688,-71.0587315781,Lincoln Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,49,Male,White,Hispanic or Latino,42.3523730174,-71.0626090463,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,38,Male,Black or African American,Unknown,42.3530880327,-71.0625390446,Washington Street
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,D4,On-View,26,Male,White,Unknown,42.3498017454,-71.07840978,Boylston Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,22,Male,Black or African American,Unknown,42.3645019606,-71.0628829418,Lancaster Street
+613,LARCENY SHOPLIFTING,B3,On-View,33,Male,Black or African American,Not Hispanic or Latino,42.348131583,-71.0802700156,Boylston Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B3,On-View,25,Male,Black or African American,Unknown,42.2951159722,-71.0840289901,Nightingale Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,20,Male,White,Unknown,42.3033959735,-71.0842849541,Columbia Road
+423,ASSAULT - AGGRAVATED,B2,On-View,36,Male,Black or African American,Not Hispanic or Latino,42.3210416906,-71.0721529072,Dudley Street
+619,LARCENY ALL OTHERS,D14,On-View,37,Female,White,Unknown,42.3505400217,-71.131066993,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,51,Male,White,Unknown,42.3033999992,-71.0850499764,Blue Hill Avenue
+423,ASSAULT - AGGRAVATED,A15,On-View,34,Male,Black or African American,Unknown,42.3835374298,-71.0719107563,Main Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,43,Male,Asian,Not Hispanic or Latino,42.3853219789,-71.0129989901,Saratoga Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,C11,On-View,30,Male,Black or African American,Not Hispanic or Latino,42.3074880004,-71.0759529843,Unknown
+2101,OPERATING UNDER THE INFLUENCE (OUI) ALCOHOL,E5,On-View,23,Male,White,Unknown,42.2875260204,-71.1522979453,Willow Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,25,Male,Black or African American,Unknown,42.3325240078,-71.0721390208,Massachusetts Avenue
+301,ROBBERY,D4,On-View,46,Male,Black or African American,Unknown,42.3500960105,-71.0773209843,Boylston Street
+423,ASSAULT - AGGRAVATED,D4,On-View,22,Male,Black or African American,Hispanic or Latino,42.3351190395,-71.0749170961,Harrison Avenue
+801,ASSAULT - SIMPLE,D4,Taken into Custody,53,Male,Black or African American,Unknown,42.3342884066,-71.0723951754,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,29,Male,Black or African American,Unknown,42.3743220405,-71.0378029703,Porter Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,54,Male,Black or African American,Hispanic or Latino,42.3808440159,-71.025010003,Saratoga Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,Taken into Custody,38,Male,White,Unknown,42.2845180066,-71.08723305,Marden Avenue
+423,ASSAULT - AGGRAVATED,B2,On-View,16,Male,Black or African American,Unknown,42.3341570399,-71.1048050476,Unknown
+1402,VANDALISM,A1,On-View,45,Female,Black or African American,Not Hispanic or Latino,42.3593299566,-71.0535499432,Commercial Street
+801,ASSAULT - SIMPLE,A1,On-View,29,Male,Black or African American,Not Hispanic or Latino,42.3612480236,-71.0609630116,Bulfinch Place
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B2,Taken into Custody,37,Male,Black or African American,Hispanic or Latino,42.3165759914,-71.0901520519,Harold Street
+801,ASSAULT - SIMPLE,D14,On-View,21,Male,White,Unknown,42.3555219655,-71.1327889953,Cambridge Street
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B2,On-View,32,Male,Black or African American,Unknown,42.3179047628,-71.0670688118,Dudley Street
+301,ROBBERY,A1,Taken into Custody,25,Male,Black or African American,Unknown,42.3535812921,-71.0623666455,Washington Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,27,Male,Black or African American,Unknown,42.3565850033,-71.061895048,Tremont Street
+801,ASSAULT - SIMPLE,A1,On-View,25,Male,Black or African American,Unknown,42.3597213649,-71.0585236011,Cornhill
+801,ASSAULT - SIMPLE,A1,On-View,24,Male,Black or African American,Not Hispanic or Latino,42.3589227875,-71.0583535444,Court Street
+423,ASSAULT - AGGRAVATED,A1,On-View,41,Male,Black or African American,Unknown,42.3569211041,-71.0615294046,Tremont Street
+801,ASSAULT - SIMPLE,A1,On-View,18,Female,Black or African American,Unknown,42.3524181473,-71.0652549858,Boylston Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,19,Male,Black or African American,Unknown,42.3627580813,-71.0591165199,Congress Street
+801,ASSAULT - SIMPLE,A1,On-View,23,Male,Black or African American,Unknown,42.3567408934,-71.0579465389,Arch Street
+613,LARCENY SHOPLIFTING,A1,On-View,21,Male,Black or African American,Unknown,42.3589775904,-71.0570237066,Congress Street
+613,LARCENY SHOPLIFTING,A1,On-View,54,Female,White,Unknown,42.3593409903,-71.0533309995,State Street
+423,ASSAULT - AGGRAVATED,A1,On-View,38,Male,White,Unknown,42.3592869966,-71.0537910158,State Street
+423,ASSAULT - AGGRAVATED,A1,On-View,33,Male,Black or African American,Unknown,42.3641035732,-71.0517949863,Fleet Street
+540,BURGLARY - COMMERICAL,A1,On-View,55,Male,White,Unknown,42.3602046358,-71.0562081611,Faneuil Hall Square
+301,ROBBERY,A1,On-View,48,Male,White,Unknown,42.3593023347,-71.0555691569,Merchants Row
+423,ASSAULT - AGGRAVATED,A1,On-View,26,Male,White,Unknown,42.3579918951,-71.0573096438,Devonshire Street
+1107,FRAUD - IMPERSONATION,A1,On-View,26,Male,Black or African American,Unknown,42.3595272137,-71.0535883931,Commercial Street
+613,LARCENY SHOPLIFTING,A1,On-View,26,Male,Black or African American,Unknown,42.3564863046,-71.0592814494,Washington Street
+613,LARCENY SHOPLIFTING,A1,On-View,20,Male,White,Unknown,42.3552162483,-71.0601286347,Summer Street
+301,ROBBERY,A1,On-View,29,Male,White,Unknown,42.3552162483,-71.0601286347,Summer Street
+423,ASSAULT - AGGRAVATED,A1,On-View,21,Male,Black or African American,Hispanic or Latino,42.3564929588,-71.0525910661,Oliver Street
+423,ASSAULT - AGGRAVATED,A1,On-View,21,Male,Black or African American,Hispanic or Latino,42.3579479125,-71.0508221916,East India Row
+423,ASSAULT - AGGRAVATED,A1,On-View,40,Female,White,Unknown,42.3499725622,-71.0634881686,Unknown
+520,BURGLARY - RESIDENTIAL,A1,On-View,33,Female,Black or African American,Unknown,42.351234233,-71.062138424,Knapp Street
+613,LARCENY SHOPLIFTING,A1,On-View,30,Male,White,Unknown,42.3551233904,-71.0608797985,Washington Street
+1001,FORGERY / COUNTERFEITING,A1,On-View,29,Male,Unknown,Unknown,42.3532756075,-71.063457722,Avery Street
+423,ASSAULT - AGGRAVATED,A1,On-View,18,Male,Black or African American,Unknown,42.3514227827,-71.06084508,Beach Street
+301,ROBBERY,A1,On-View,19,Male,Black or African American,Hispanic or Latino,42.3554073752,-71.0631243255,Tremont Street
+423,ASSAULT - AGGRAVATED,A1,On-View,48,Male,White,Unknown,42.3520723799,-71.059753422,Edinboro Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,44,Male,Black or African American,Unknown,42.3554073752,-71.0631243255,Tremont Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,24,Female,Black or African American,Unknown,42.3554073752,-71.0631243255,Tremont Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,18,Male,White,Unknown,42.3552142873,-71.0620635091,Unknown
+613,LARCENY SHOPLIFTING,A1,On-View,23,Male,White,Unknown,42.3551233904,-71.0608797985,Washington Street
+613,LARCENY SHOPLIFTING,C11,On-View,34,Male,White,Unknown,42.3551233904,-71.0608797985,Washington Street
+801,ASSAULT - SIMPLE,A1,On-View,33,Male,Black or African American,Unknown,42.3521827763,-71.0556788028,Unknown
+423,ASSAULT - AGGRAVATED,A1,On-View,22,Male,White,Unknown,42.3537058447,-71.058985869,Kingston Street
+801,ASSAULT - SIMPLE,A1,On-View,37,Male,White,Unknown,42.349978397,-71.0568375242,Atlantic Avenue
+801,ASSAULT - SIMPLE,A1,On-View,30,Male,White,Unknown,42.3504329688,-71.0587315781,Lincoln Street
+613,LARCENY SHOPLIFTING,A1,On-View,53,Female,White,Unknown,42.3551233904,-71.0608797985,Washington Street
+801,ASSAULT - SIMPLE,A1,On-View,40,Male,White,Unknown,42.3545640622,-71.0614741778,Washington Street
+801,ASSAULT - SIMPLE,A1,On-View,20,Male,Black or African American,Unknown,42.3646370831,-71.0530844837,Fleet Street
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,A1,On-View,41,Male,Black or African American,Unknown,42.3627523968,-71.0555646063,Freedom Trail
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,41,Male,White,Unknown,42.3556359538,-71.0628960126,Tremont Street
+801,ASSAULT - SIMPLE,A1,On-View,53,Female,White,Unknown,42.3642384016,-71.0616551501,Center Plaza
+613,LARCENY SHOPLIFTING,A1,On-View,31,Male,Black or African American,Unknown,42.3606446955,-71.0708619201,Charles Street
+423,ASSAULT - AGGRAVATED,A1,On-View,30,Female,Black or African American,Unknown,42.3653747964,-71.0615416148,Causeway Street
+801,ASSAULT - SIMPLE,A1,On-View,33,Male,White,Unknown,42.3626074984,-71.0613272527,New Chardon Street
+423,ASSAULT - AGGRAVATED,A1,Taken into Custody,54,Male,Black or African American,Not Hispanic or Latino,42.3676159061,-71.0660136024,Nashua Street
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,A1,On-View,37,Female,Black or African American,Unknown,42.3639450886,-71.0594284135,Canal Street
+520,BURGLARY - RESIDENTIAL,A1,On-View,27,Male,White,Unknown,42.3582747134,-71.0705786705,Charles Street
+616,LARCENY THEFT OF BICYCLE,A1,Taken into Custody,42,Male,White,Unknown,42.3611601514,-71.0700152591,Cambridge Street
+801,ASSAULT - SIMPLE,A1,On-View,20,Female,White,Unknown,42.3621677089,-71.0682702041,Parkman Street
+111,"MURDER, NON-NEGLIGIENT MANSLAUGHTER",A1,On-View,44,Male,White,Unknown,42.36489527,-71.0605024902,Canal Street
+1106,FRAUD - CREDIT CARD / ATM FRAUD,A1,On-View,18,Female,Black or African American,Unknown,42.3616972024,-71.0668587788,Blossom Street
+801,ASSAULT - SIMPLE,A1,On-View,28,Male,White,Unknown,42.3655299846,-71.0612000101,Causeway Street
+801,ASSAULT - SIMPLE,A1,On-View,43,Male,White,Unknown,42.3649666327,-71.0615797377,Causeway Street
+801,ASSAULT - SIMPLE,A1,On-View,50,Male,Black or African American,Unknown,42.3642384016,-71.0616551501,Center Plaza
+613,LARCENY SHOPLIFTING,A1,On-View,42,Female,White,Hispanic or Latino,42.3611312263,-71.0648433374,Cambridge Street
+801,ASSAULT - SIMPLE,A1,Taken into Custody,39,Female,White,Unknown,42.3653747964,-71.0615416148,Causeway Street
+423,ASSAULT - AGGRAVATED,D4,On-View,24,Male,Black or African American,Unknown,42.3467646285,-71.087477891,Massachusetts Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,36,Female,White,Unknown,42.3333288752,-71.1065953397,Huntington Avenue
+613,LARCENY SHOPLIFTING,D4,On-View,21,Male,Black or African American,Hispanic or Latino,42.3484057625,-71.0868833874,Newbury Street
+540,BURGLARY - COMMERICAL,D4,On-View,50,Male,White,Unknown,42.350387596,-71.0878529006,Public Alley 429
+801,ASSAULT - SIMPLE,E13,On-View,27,Male,Asian,Unknown,42.316316661,-71.1029721011,Boylston Street
+423,ASSAULT - AGGRAVATED,D4,On-View,28,Male,White,Unknown,42.3498017454,-71.07840978,Boylston Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,D4,On-View,24,Male,White,Unknown,42.3476227673,-71.076067349,Dartmouth Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,31,Female,Black or African American,Unknown,42.3618385666,-71.0597648909,Sudbury Street
+801,ASSAULT - SIMPLE,A1,On-View,39,Male,White,Unknown,42.350661739,-71.066022317,Warrenton Street
+613,LARCENY SHOPLIFTING,A1,On-View,34,Male,White,Unknown,42.3527294743,-71.0625629085,Washington Street
+520,BURGLARY - RESIDENTIAL,D4,On-View,62,Male,Black or African American,Unknown,42.344512943,-71.0804971704,West Newton Street
+613,LARCENY SHOPLIFTING,A1,On-View,37,Male,White,Unknown,42.3527294743,-71.0625629085,Washington Street
+801,ASSAULT - SIMPLE,D4,On-View,27,Male,Black or African American,Not Hispanic or Latino,42.3445391122,-71.0735877001,Warren Avenue
+801,ASSAULT - SIMPLE,D4,On-View,62,Female,White,Unknown,42.3498017454,-71.07840978,Boylston Street
+423,ASSAULT - AGGRAVATED,A1,On-View,28,Male,White,Unknown,42.3499725622,-71.0634881686,Unknown
+613,LARCENY SHOPLIFTING,D4,On-View,29,Male,White,Unknown,42.3464650502,-71.0707043558,Berkeley Street
+301,ROBBERY,A1,On-View,41,Male,White,Unknown,42.3527294743,-71.0625629085,Washington Street
+617,LARCENY THEFT FROM BUILDING,A1,On-View,26,Male,Black or African American,Not Hispanic or Latino,42.3514348258,-71.0696933428,Park Plaza
+613,LARCENY SHOPLIFTING,D4,On-View,65,Male,White,Unknown,42.3480097766,-71.0766975998,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,24,Male,Black or African American,Unknown,42.3618385666,-71.0597648909,Sudbury Street
+801,ASSAULT - SIMPLE,D4,On-View,28,Male,Asian,Unknown,42.3441090472,-71.0751768933,Warren Avenue
+801,ASSAULT - SIMPLE,D4,On-View,56,Male,Unknown,Unknown,42.3498017454,-71.07840978,Boylston Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,29,Male,White,Unknown,42.3523118968,-71.063705101,Boylston Street
+1402,VANDALISM,D4,On-View,36,Male,Black or African American,Unknown,42.344512943,-71.0804971704,West Newton Street
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,D4,On-View,24,Male,Black or African American,Unknown,42.3479723982,-71.0784958159,Exeter Street
+423,ASSAULT - AGGRAVATED,A1,On-View,57,Male,Black or African American,Unknown,42.3482769757,-71.070389324,Cortes Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,57,Male,Black or African American,Unknown,42.3510310459,-71.0637333102,Stuart Street
+801,ASSAULT - SIMPLE,D4,On-View,30,Male,Black or African American,Unknown,42.3503786998,-71.0762609838,Boylston Street
+423,ASSAULT - AGGRAVATED,D4,On-View,25,Male,Black or African American,Unknown,42.3345537359,-71.0756080128,Harrison Avenue
+301,ROBBERY,D4,On-View,35,Female,White,Unknown,42.3364969978,-71.0760160166,East Springfield Street
+801,ASSAULT - SIMPLE,D4,Taken into Custody,39,Male,White,Hispanic or Latino,42.3331118903,-71.0727636993,Massachusetts Avenue
+423,ASSAULT - AGGRAVATED,D4,On-View,46,Male,Black or African American,Unknown,42.3389352865,-71.0701650199,Harrison Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,31,Male,Black or African American,Not Hispanic or Latino,42.3340182896,-71.0763812393,Harrison Avenue
+613,LARCENY SHOPLIFTING,D4,On-View,25,Female,Asian,Unknown,42.3381638652,-71.0746121662,Washington Street
+613,LARCENY SHOPLIFTING,D4,On-View,51,Male,White,Unknown,42.3340182896,-71.0763812393,Harrison Avenue
+801,ASSAULT - SIMPLE,D4,On-View,39,Male,White,Unknown,42.3374411444,-71.0805767103,Camden Street
+423,ASSAULT - AGGRAVATED,D4,On-View,47,Female,Black or African American,Unknown,42.3418676498,-71.0727221472,Unknown
+520,BURGLARY - RESIDENTIAL,D4,On-View,31,Male,Black or African American,Not Hispanic or Latino,42.3359669824,-71.0738540068,Harrison Avenue
+801,ASSAULT - SIMPLE,D4,On-View,33,Male,White,Not Hispanic or Latino,42.3425591913,-71.0627082378,Albany Street
+423,ASSAULT - AGGRAVATED,D4,On-View,46,Male,White,Unknown,42.3449158047,-71.061699382,Albany Street
+423,ASSAULT - AGGRAVATED,D4,On-View,57,Male,White,Unknown,42.341070048,-71.0825528718,Massachusetts Avenue
+301,ROBBERY,D4,On-View,50,Male,Black or African American,Unknown,42.3433467215,-71.0664314162,Washington Street
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,D4,On-View,19,Female,Black or African American,Unknown,42.338255722,-71.079209176,Massachusetts Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,26,Male,Black or African American,Unknown,42.3321084295,-71.0701439481,Southampton Street
+619,LARCENY ALL OTHERS,D4,Taken into Custody,22,Male,White,Unknown,42.3376346124,-71.0701302397,East Brookline Street
+423,ASSAULT - AGGRAVATED,D4,On-View,40,Female,White,Unknown,42.343297946,-71.0645809642,Harrison Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,37,Male,White,Unknown,42.3331118903,-71.0727636993,Massachusetts Avenue
+423,ASSAULT - AGGRAVATED,D4,Taken into Custody,51,Male,White,Unknown,42.3342884066,-71.0723951754,Unknown
+540,BURGLARY - COMMERICAL,D4,On-View,30,Male,White,Not Hispanic or Latino,42.3417673556,-71.0665523803,Harrison Avenue
+801,ASSAULT - SIMPLE,D4,Taken into Custody,49,Male,Black or African American,Unknown,42.343297946,-71.0645809642,Harrison Avenue
+724,AUTO THEFT,D4,On-View,17,Male,Black or African American,Not Hispanic or Latino,42.3331118903,-71.0727636993,Massachusetts Avenue
+801,ASSAULT - SIMPLE,B2,On-View,38,Female,Black or African American,Unknown,42.3351190395,-71.0749170961,Harrison Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D4,On-View,34,Male,White,Hispanic or Latino,42.3342884066,-71.0723951754,Unknown
+801,ASSAULT - SIMPLE,B2,On-View,20,Male,Black or African American,Unknown,42.3351190395,-71.0749170961,Harrison Avenue
+801,ASSAULT - SIMPLE,B2,Taken into Custody,53,Male,Black or African American,Unknown,42.3246722588,-71.0892235761,Juniper Street
+2662,BALLISTICS EVIDENCE/FOUND,B2,On-View,60,Male,White,Unknown,42.3191711031,-71.0919241452,Townsend Street
+301,ROBBERY,B2,On-View,52,Male,Black or African American,Unknown,42.3309475177,-71.0828510391,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,21,Female,Black or African American,Unknown,42.329024689,-71.0834150475,Warren Street
+801,ASSAULT - SIMPLE,D4,On-View,50,Male,Black or African American,Hispanic or Latino,42.332463993,-71.0787476029,Harrison Avenue
+540,BURGLARY - COMMERICAL,B2,Taken into Custody,23,Male,White,Unknown,42.3287258857,-71.0838221697,Dudley Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,45,Female,Black or African American,Not Hispanic or Latino,42.3284970205,-71.0808969404,Unknown
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,30,Female,White,Unknown,42.3253151018,-71.083135824,Warren Street
+801,ASSAULT - SIMPLE,B2,On-View,43,Male,White,Not Hispanic or Latino,42.3230051439,-71.0808169551,Dunreath Street
+801,ASSAULT - SIMPLE,B2,On-View,28,Male,Black or African American,Unknown,42.3220383979,-71.0714039619,Albion Street
+801,ASSAULT - SIMPLE,B2,On-View,45,Male,Black or African American,Unknown,42.3242032201,-71.0727904361,Langdon Street
+520,BURGLARY - RESIDENTIAL,B2,Taken into Custody,21,Male,Black or African American,Unknown,42.3236295798,-71.0686776091,Burrell Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,Taken into Custody,27,Male,Black or African American,Unknown,42.3320761584,-71.0714539432,Gerard Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,33,Male,Black or African American,Unknown,42.3232664049,-71.0984160745,Columbus Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,36,Male,White,Unknown,42.3286628356,-71.0856340118,Washington Street
+423,ASSAULT - AGGRAVATED,E13,On-View,20,Male,Black or African American,Unknown,42.3128605985,-71.0957277993,Walnut Avenue
+111,"MURDER, NON-NEGLIGIENT MANSLAUGHTER",B2,On-View,28,Male,Black or African American,Unknown,42.3155861264,-71.093993609,Westminster Court
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B2,On-View,48,Male,Black or African American,Unknown,42.3198544348,-71.0797251818,Clifford Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,49,Male,Black or African American,Unknown,42.3342884066,-71.0723951754,Unknown
+801,ASSAULT - SIMPLE,B2,On-View,63,Female,Black or African American,Unknown,42.3309475177,-71.0828510391,Unknown
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B2,On-View,25,Male,Black or African American,Unknown,42.3258765848,-71.0702494665,Norfolk Avenue
+423,ASSAULT - AGGRAVATED,B2,On-View,43,Male,Black or African American,Unknown,42.3295096881,-71.0896085044,Dudley Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,25,Male,Black or African American,Unknown,42.3222164526,-71.0820672273,Warren Street
+641,BREAKING AND ENTERING (B&E) MOTOR VEHICLE,B2,On-View,25,Male,Black or African American,Unknown,42.3338023777,-71.0888086721,Whittier Street
+801,ASSAULT - SIMPLE,B2,On-View,35,Male,White,Unknown,42.3363838902,-71.0986945724,Huntington Avenue
+1402,VANDALISM,B2,On-View,47,Male,Black or African American,Hispanic or Latino,42.334502848,-71.1036801961,Huntington Avenue
+2647,THREATS TO DO BODILY HARM,B2,Taken into Custody,64,Male,Black or African American,Unknown,42.334502848,-71.1036801961,Huntington Avenue
+1402,VANDALISM,B2,Taken into Custody,26,Male,Black or African American,Unknown,42.3317486149,-71.096940678,Morton Place
+423,ASSAULT - AGGRAVATED,B2,Taken into Custody,50,Male,White,Unknown,42.3316415871,-71.1076078871,Hillside Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,22,Male,Black or African American,Not Hispanic or Latino,42.3346705009,-71.0889340017,Tremont Street
+3119,FIREARM/WEAPON - FOUND OR CONFISCATED,B2,Taken into Custody,39,Male,Black or African American,Unknown,42.3336392522,-71.1058931696,Unknown
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,19,Female,Black or African American,Unknown,42.3346569436,-71.0970833314,McGreevey Way
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B2,On-View,40,Male,Black or African American,Unknown,42.3024539067,-71.0804470895,Erie Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,Taken into Custody,25,Male,Black or African American,Unknown,42.3019741999,-71.0838338813,Ellington Street
+423,ASSAULT - AGGRAVATED,C11,On-View,34,Male,White,Unknown,42.3009096881,-71.074258432,Bowdoin Avenue
+801,ASSAULT - SIMPLE,C11,On-View,38,Male,Black or African American,Unknown,42.3044761052,-71.0699955261,Eunice Street
+619,LARCENY ALL OTHERS,C11,On-View,21,Male,Black or African American,Unknown,42.2975553296,-71.0597091024,Gibson Street
+2647,THREATS TO DO BODILY HARM,C11,On-View,30,Male,Black or African American,Unknown,42.30521091,-71.0793012953,Strathcona Road
+423,ASSAULT - AGGRAVATED,B3,On-View,13,Female,Black or African American,Unknown,42.2974660607,-71.0827430951,Bicknell Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,C11,On-View,33,Male,Black or African American,Hispanic or Latino,42.3072427606,-71.0755867731,Devon Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B3,On-View,23,Male,Black or African American,Unknown,42.2993955324,-71.0830016761,Page Street
+619,LARCENY ALL OTHERS,B2,On-View,26,Male,Black or African American,Unknown,42.3059185044,-71.0795658636,Columbia Road
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,29,Male,Black or African American,Unknown,42.300849291,-71.0852212809,McLellan Street
+801,ASSAULT - SIMPLE,B2,On-View,60,Female,Black or African American,Unknown,42.3125511187,-71.0802128716,Blue Hill Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,49,Female,Black or African American,Unknown,42.3087013165,-71.0793275491,Stanwood Street
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B2,Taken into Custody,19,Male,Black or African American,Unknown,42.3119278889,-71.0776296255,Lawrence Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B2,On-View,46,Male,Black or African American,Unknown,42.3125496971,-71.0875708066,Crawford Street
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B2,Taken into Custody,33,Male,Black or African American,Unknown,42.3163213058,-71.089230497,Hollander Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B3,On-View,43,Male,Black or African American,Unknown,42.2997786956,-71.0625288945,Freeman Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,E13,On-View,40,Male,Black or African American,Unknown,42.2948747437,-71.05742148,Ginita Street
+1402,VANDALISM,C11,On-View,30,Male,Black or African American,Unknown,42.2976895384,-71.0609095403,Dorchester Avenue
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,C11,On-View,48,Male,Black or African American,Unknown,42.3192204507,-71.0678390595,Humphreys Place
+423,ASSAULT - AGGRAVATED,C11,On-View,34,Male,White,Unknown,42.3057397686,-71.0676236176,Bowdoin Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C11,On-View,30,Male,Black or African American,Hispanic or Latino,42.2943084414,-71.0618862781,Dorchester Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,35,Male,Black or African American,Unknown,42.3557198477,-71.061108706,Winter Place
+617,LARCENY THEFT FROM BUILDING,C11,On-View,32,Male,Black or African American,Unknown,42.2975553296,-71.0597091024,Gibson Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,C11,On-View,56,Male,Black or African American,Unknown,42.302094425,-71.0657518326,Ridgewood Street
+423,ASSAULT - AGGRAVATED,C11,On-View,26,Male,Black or African American,Hispanic or Latino,42.3065878581,-71.0620725468,Adams Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C11,On-View,28,Male,Black or African American,Unknown,42.305407148,-71.0654713515,Draper Street
+301,ROBBERY,C11,On-View,23,Male,Black or African American,Unknown,42.3052224026,-71.0674944864,Norton Street
+2647,THREATS TO DO BODILY HARM,C11,On-View,36,Male,Black or African American,Unknown,42.2886120371,-71.0656459444,Argyle Street
+520,BURGLARY - RESIDENTIAL,C11,On-View,31,Male,Black or African American,Unknown,42.3092330002,-71.0595359995,Hancock Street
+520,BURGLARY - RESIDENTIAL,C11,On-View,15,Female,Black or African American,Hispanic or Latino,42.3047039922,-71.059082584,Dorchester Avenue
+520,BURGLARY - RESIDENTIAL,B3,On-View,47,Male,White,Unknown,42.2840622018,-71.081708388,Norfolk Street
+613,LARCENY SHOPLIFTING,B3,On-View,20,Male,Black or African American,Unknown,42.294539543,-71.0866989,Talbot Avenue
+801,ASSAULT - SIMPLE,B3,On-View,38,Male,Black or African American,Unknown,42.2818755786,-71.0855053767,Hannon Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,40,Male,Black or African American,Unknown,42.2836343367,-71.0828132005,Norfolk Street
+423,ASSAULT - AGGRAVATED,B3,On-View,49,Male,White,Unknown,42.2831323042,-71.0872187047,Hildreth Street
+301,ROBBERY,B3,On-View,28,Male,Black or African American,Unknown,42.2943540675,-71.0730671505,West Tremlett Street
+423,ASSAULT - AGGRAVATED,C11,On-View,34,Male,Black or African American,Unknown,42.2920252283,-71.0632154119,Cheverus Road
+801,ASSAULT - SIMPLE,B2,On-View,32,Male,Black or African American,Unknown,42.287148204,-71.0649303937,Talbot Avenue
+1402,VANDALISM,C11,Taken into Custody,63,Male,Black or African American,Unknown,42.2865733368,-71.0640837396,Dorchester Avenue
+613,LARCENY SHOPLIFTING,C11,On-View,36,Male,Black or African American,Unknown,42.2913161279,-71.071702928,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,B3,On-View,20,Female,Black or African American,Unknown,42.2912558601,-71.0747509195,Aspinwall Road
+619,LARCENY ALL OTHERS,C11,On-View,39,Female,White,Unknown,42.2843981983,-71.0646837329,Dorchester Avenue
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C11,On-View,29,Male,Black or African American,Unknown,42.2898169641,-71.0676063411,Brent Street
+1402,VANDALISM,B3,On-View,33,Male,White,Unknown,42.2954294244,-71.0766117182,Spencer Street
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B3,On-View,35,Male,Asian,Unknown,42.2947732141,-71.0803843173,Bernard Street
+1102,FRAUD - FALSE PRETENSE / SCHEME,C11,On-View,18,Female,Black or African American,Unknown,42.2843981983,-71.0646837329,Dorchester Avenue
+801,ASSAULT - SIMPLE,B3,On-View,33,Female,White,Unknown,42.2905614223,-71.0892602796,Blue Hill Avenue
+1402,VANDALISM,C6,On-View,21,Male,Black or African American,Unknown,42.3269664714,-71.0619860658,Unknown
+423,ASSAULT - AGGRAVATED,C11,On-View,47,Male,Asian,Unknown,42.3129064781,-71.0576232498,Savin Hill Avenue
+1402,VANDALISM,B2,On-View,46,Female,Black or African American,Unknown,42.3170935505,-71.0780297684,Unknown
+613,LARCENY SHOPLIFTING,C6,On-View,20,Female,Black or African American,Unknown,42.3269664714,-71.0619860658,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,Taken into Custody,49,Male,White,Unknown,42.3280996604,-71.0632167605,Allstate Road
+423,ASSAULT - AGGRAVATED,B2,On-View,16,Male,Black or African American,Not Hispanic or Latino,42.3188265523,-71.0660536808,Wendover Street
+423,ASSAULT - AGGRAVATED,B2,On-View,15,Male,Black or African American,Not Hispanic or Latino,42.318387912,-71.076862876,Brookford Street
+613,LARCENY SHOPLIFTING,C6,On-View,39,Male,Black or African American,Unknown,42.3269664714,-71.0619860658,Unknown
+423,ASSAULT - AGGRAVATED,B2,On-View,39,Female,Black or African American,Unknown,42.3189114898,-71.0673185274,Humphreys Street
+615,LARCENY THEFT OF MV PARTS & ACCESSORIES,C11,On-View,35,Male,White,Unknown,42.3088859772,-71.0692308976,Bellevue Street
+613,LARCENY SHOPLIFTING,C6,On-View,26,Male,Black or African American,Unknown,42.3269664714,-71.0619860658,Unknown
+520,BURGLARY - RESIDENTIAL,C11,On-View,63,Male,Black or African American,Unknown,42.318941246,-71.05483549,Crescent Avenue
+801,ASSAULT - SIMPLE,B2,On-View,34,Male,Black or African American,Unknown,42.3161024126,-71.0775619879,Woodcliff Street
+423,ASSAULT - AGGRAVATED,B3,Taken into Custody,40,Male,Black or African American,Unknown,42.2717076529,-71.1062297856,Unknown
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,B3,On-View,44,Male,White,Unknown,42.2785469958,-71.0932599832,Blue Hill Avenue
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,B3,On-View,44,Male,Black or African American,Unknown,42.2785598381,-71.0919969742,Fessenden Street
+301,ROBBERY,B3,On-View,23,Female,White,Unknown,42.2796829925,-71.092860483,Blue Hill Avenue
+613,LARCENY SHOPLIFTING,B3,On-View,43,Female,Black or African American,Unknown,42.2713022537,-71.0744236197,River Street
+613,LARCENY SHOPLIFTING,B3,On-View,26,Female,White,Unknown,42.2818706071,-71.0875115191,Unknown
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,B3,On-View,42,Male,Black or African American,Hispanic or Latino,42.2779637003,-71.0924631819,Wilmore Street
+423,ASSAULT - AGGRAVATED,B3,On-View,34,Male,Black or African American,Unknown,42.2714148195,-71.080143381,River Street
+423,ASSAULT - AGGRAVATED,B3,On-View,14,Male,Black or African American,Unknown,42.2715394756,-71.0792961943,River Street
+423,ASSAULT - AGGRAVATED,B3,On-View,15,Male,White,Unknown,42.2818411278,-71.0987170887,Walk Hill Street
+423,ASSAULT - AGGRAVATED,C6,On-View,34,Male,Black or African American,Unknown,42.3306920469,-71.0582606377,Ellery Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,46,Male,Black or African American,Unknown,42.329742998,-71.0582630187,Southampton Street
+423,ASSAULT - AGGRAVATED,A15,On-View,65,Male,White,Unknown,42.3356166054,-71.0364189449,East Broadway
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,C6,On-View,39,Male,Black or African American,Unknown,42.3247457083,-71.0555350194,Von Hillern Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,38,Male,Black or African American,Unknown,42.3423419279,-71.0563327553,West Broadway
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,C6,On-View,49,Male,Black or African American,Unknown,42.3306370698,-71.0490266423,Columbia Road
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,C6,On-View,29,Male,Black or African American,Unknown,42.3368660157,-71.0531299649,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,29,Male,Unknown,Unknown,42.389153973,-71.0106250562,Unknown
+423,ASSAULT - AGGRAVATED,A7,On-View,36,Male,Black or African American,Unknown,42.3738275516,-71.0405245854,Border Street
+423,ASSAULT - AGGRAVATED,A7,On-View,35,Female,Black or African American,Unknown,42.3927400153,-71.0047906714,Waldemar Avenue
+1300,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING,A7,On-View,22,Male,White,Unknown,42.3795044401,-71.0285770498,Saratoga Street
+520,BURGLARY - RESIDENTIAL,A7,On-View,52,Male,Black or African American,Unknown,42.3680977024,-71.0360640417,Everett Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,25,Male,Black or African American,Unknown,42.3881703256,-71.0093954366,Boardman Street
+423,ASSAULT - AGGRAVATED,A7,On-View,40,Male,White,Unknown,42.3685680186,-71.0412170809,Father Jacobbe Road
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,62,Male,Black or African American,Unknown,42.3702487972,-71.0383800167,Chelsea Street
+613,LARCENY SHOPLIFTING,A7,On-View,13,Male,Black or African American,Unknown,42.3738275516,-71.0405245854,Border Street
+613,LARCENY SHOPLIFTING,A7,On-View,14,Male,Black or African American,Unknown,42.3738275516,-71.0405245854,Border Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A7,On-View,24,Female,Black or African American,Not Hispanic or Latino,42.3816361329,-71.0177492689,Moore Street
+614,LARCENY THEFT FROM MV - NON-ACCESSORY,A15,On-View,44,Male,White,Unknown,42.3737110361,-71.0583410591,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A15,On-View,48,Male,White,Unknown,42.3273499581,-71.0830984987,Unknown
+801,ASSAULT - SIMPLE,A15,On-View,21,Male,Black or African American,Unknown,42.3773638842,-71.0579137603,Bunker Hill Street
+423,ASSAULT - AGGRAVATED,A15,On-View,16,Female,Black or African American,Unknown,42.3747945068,-71.0660087104,Austin Street
+801,ASSAULT - SIMPLE,A15,On-View,35,Male,White,Unknown,42.3768519949,-71.068872545,Dunstable Street
+423,ASSAULT - AGGRAVATED,A15,On-View,15,Male,White,Hispanic or Latino,42.3780534505,-71.0667665484,Sullivan Street
+1402,VANDALISM,A15,On-View,16,Male,Black or African American,Hispanic or Latino,42.3774976359,-71.0503121945,1st Avenue
+423,ASSAULT - AGGRAVATED,E13,On-View,22,Male,Asian,Unknown,42.3005551744,-71.1131243864,Washington Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,On-View,46,Male,White,Unknown,42.3207859637,-71.0931689644,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,Taken into Custody,27,Male,White,Unknown,42.3523414042,-71.0629698736,Boylston Street
+423,ASSAULT - AGGRAVATED,C11,On-View,52,Male,White,Unknown,42.322837587,-71.1009672251,Centre Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D14,On-View,26,Male,White,Unknown,42.3523414042,-71.0629698736,Boylston Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,36,Male,White,Hispanic or Latino,42.3523414042,-71.0629698736,Boylston Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,36,Male,White,Unknown,42.3523414042,-71.0629698736,Boylston Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,On-View,34,Female,White,Hispanic or Latino,42.3169418857,-71.1039455811,Boylston Street
+2647,THREATS TO DO BODILY HARM,E13,On-View,52,Male,White,Unknown,42.3167481095,-71.1135624914,Centre Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E13,On-View,33,Male,White,Unknown,42.3106096715,-71.1073333345,Unknown
+423,ASSAULT - AGGRAVATED,E18,On-View,21,Male,White,Unknown,42.2853474355,-71.1104763295,Canterbury Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E18,On-View,28,Female,White,Unknown,42.2874765096,-71.1069549566,Unknown
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,E18,On-View,21,Male,Black or African American,Not Hispanic or Latino,42.2874765096,-71.1069549566,Unknown
+2647,THREATS TO DO BODILY HARM,E5,On-View,36,Male,Black or African American,Unknown,42.2817514402,-71.1270818299,Poplar Street
+1102,FRAUD - FALSE PRETENSE / SCHEME,E5,On-View,32,Male,White,Unknown,42.2863689248,-71.1300550328,Corinth Street
+613,LARCENY SHOPLIFTING,A15,On-View,30,Male,White,Unknown,42.3565410761,-71.0598295278,Bromfield Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,45,Female,White,Unknown,42.3552142873,-71.0620635091,Unknown
+520,BURGLARY - RESIDENTIAL,E5,On-View,25,Male,Black or African American,Unknown,42.2732766411,-71.1652191386,Baker Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,D14,On-View,38,Male,Black or African American,Unknown,42.3559000679,-71.1317213184,Cambridge Street
+520,BURGLARY - RESIDENTIAL,D14,Taken into Custody,29,Male,Black or African American,Unknown,42.3498418254,-71.1367890213,Allston Street
+615,LARCENY THEFT OF MV PARTS & ACCESSORIES,D14,On-View,25,Male,White,Unknown,42.3534464673,-71.1421246236,Saunders Street
+520,BURGLARY - RESIDENTIAL,D14,On-View,41,Female,Black or African American,Unknown,42.3514874169,-71.1366079719,Griggs Place
+613,LARCENY SHOPLIFTING,A1,On-View,21,Female,White,Unknown,42.3532978507,-71.1340502836,Unknown
+801,ASSAULT - SIMPLE,D14,On-View,30,Male,Black or African American,Hispanic or Latino,42.3530111865,-71.1326145076,U.S. 20
+520,BURGLARY - RESIDENTIAL,D14,On-View,29,Male,White,Unknown,42.3508544881,-71.1340885896,Radcliffe Road
+520,BURGLARY - RESIDENTIAL,D14,On-View,22,Female,White,Unknown,42.3531316371,-71.145173387,Dustin Street
+423,ASSAULT - AGGRAVATED,D14,On-View,41,Male,Black or African American,Unknown,42.3413060881,-71.144912798,Cummings Road
+520,BURGLARY - RESIDENTIAL,D14,On-View,50,Male,White,Unknown,42.3516084163,-71.1460257974,Cushman Road
+1501,WEAPON VIOLATION - CARRY/ POSSESSING/ SALE/ TRAFFICKING/ OTHER,D14,On-View,30,Female,Black or African American,Unknown,42.3412777531,-71.1660607026,Lake Street
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,25,Male,Black or African American,Not Hispanic or Latino,42.3559423872,-71.0625833317,Tremont Street
+540,BURGLARY - COMMERICAL,D14,Taken into Custody,53,Male,White,Unknown,42.3580330324,-71.141261995,Lincoln Street
+615,LARCENY THEFT OF MV PARTS & ACCESSORIES,D14,On-View,27,Male,Black or African American,Unknown,42.3601939247,-71.150544934,Soldiers Field Place
+1810,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE,A1,On-View,28,Male,Black or African American,Unknown,42.3559423872,-71.0625833317,Tremont Street
+301,ROBBERY,E18,On-View,23,Male,White,Unknown,42.2528949803,-71.1274145701,Business Street
+613,LARCENY SHOPLIFTING,E18,On-View,16,Male,Black or African American,Unknown,42.2741302133,-71.1167461693,Unknown
+520,BURGLARY - RESIDENTIAL,E18,On-View,39,Male,Black or African American,Unknown,42.2505986319,-71.1435488159,Dietz Road
+301,ROBBERY,E18,On-View,32,Male,White,Unknown,42.2412492553,-71.1262990767,Truman Parkway
+423,ASSAULT - AGGRAVATED,E18,On-View,25,Male,White,Unknown,42.2593283324,-71.1281643014,Braeburn Road
+613,LARCENY SHOPLIFTING,D4,On-View,16,Male,White,Hispanic or Latino,42.348131583,-71.0802700156,Boylston Street
+613,LARCENY SHOPLIFTING,D4,On-View,30,Male,Black or African American,Not Hispanic or Latino,42.348131583,-71.0802700156,Boylston Street
+801,ASSAULT - SIMPLE,D4,On-View,28,Female,White,Unknown,42.3493247129,-71.0801480125,Boylston Street
+613,LARCENY SHOPLIFTING,D4,On-View,24,Male,White,Unknown,42.348131583,-71.0802700156,Boylston Street
+423,ASSAULT - AGGRAVATED,C6,On-View,27,Male,Black or African American,Unknown,42.3527561677,-71.0474812748,Seaport Boulevard
+1001,FORGERY / COUNTERFEITING,C6,On-View,33,Male,Black or African American,Unknown,42.3519645134,-71.046112911,Seaport Boulevard
+617,LARCENY THEFT FROM BUILDING,C6,On-View,30,Female,White,Unknown,42.3500663389,-71.0479899,Congress Street
+801,ASSAULT - SIMPLE,D14,On-View,25,Male,Black or African American,Unknown,42.3517057139,-71.1198995551,Commonwealth Avenue
+540,BURGLARY - COMMERICAL,D4,On-View,39,Male,Black or African American,Unknown,42.3444226581,-71.0983308282,Boylston Street
